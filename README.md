@@ -1,6 +1,6 @@
 # 💬 𝕱𝖆𝖓𝖈𝖞 𝕱𝖔𝖓𝖙𝖘 𝕲𝖊𝖓𝖊𝖗𝖆𝖙𝖔𝖗
 
-A super-simple web app that you can use to generate cool, weird, and beautiful text using pseudofonts made with Unicode characters. This is the GUI-based equivalent of the [Fancy Fonts Bot](https://github.com/waterrmalann/telegram-fancy-fonts-bot) for Telegram that I wrote not too long ago. They are both similar in terms of functionality and the font system is cross-compatible.
+Font Generator a super-simple web app that you can use to generate cool, weird, and beautiful text using pseudofonts made with Unicode characters. This is the GUI-based equivalent of the [Fancy Fonts Bot](https://github.com/waterrmalann/telegram-fancy-fonts-bot) for Telegram that I wrote not too long ago. They are both similar in terms of functionality and the font system is cross-compatible.
 
 **Note:** Text generated using this application may not always be readable, they could also cause accessibility issues as screen-readers might not recognize them. So it is advised that you use them knowing the downsides.*
 
@@ -35,7 +35,7 @@ A super-simple web app that you can use to generate cool, weird, and beautiful t
 
 ### Live Version
 
-I have a live version of the web app up on my [personal portfolio](http://alanvarghese.me/projects/fancy-fonts-generator/app.html). It is always on the exact same version as this git repository. If you however want to host your own version of the app, follow the steps down below to get started.
+I have a live version of the web app up on my [personal portfolio](https://www.coolfancytextgenerator.top/). It is always on the exact same version as this git repository. If you however want to host your own version of the app, follow the steps down below to get started.
 
 ### Prerequisites
 
